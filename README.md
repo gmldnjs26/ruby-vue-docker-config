@@ -35,3 +35,11 @@ githubなどから初めてローカルに持ってきた場合は以下の手�
 $ docker-compose run front npm install
 $ docker-compose up
 ```
+## 動作確認
+
+https://localhost:3000
+![image](https://user-images.githubusercontent.com/46416157/122662912-9bf7a400-d1d1-11eb-9b28-2097899f8e24.png)
+
+
+https://localhost:8080
+![image](https://user-images.githubusercontent.com/46416157/122662945-e24d0300-d1d1-11eb-9ec3-14b89801b6c6.png)

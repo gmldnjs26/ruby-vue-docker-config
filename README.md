@@ -41,6 +41,3 @@ https://localhost:3000
 ![image](https://user-images.githubusercontent.com/46416157/122662912-9bf7a400-d1d1-11eb-9b28-2097899f8e24.png)
 
 
-https://localhost:8080
-![image](https://user-images.githubusercontent.com/46416157/123467805-e3e05600-d62b-11eb-8c99-bd03c681bf7b.png)
-
